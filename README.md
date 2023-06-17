@@ -1,2 +1,2 @@
 # Mern-Template
-Template MERN (MongodDb, Expressjs, Reactjs, Nodejs)
+Template MERN (MongoDb, Expressjs, Reactjs, Nodejs)
